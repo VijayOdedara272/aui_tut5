@@ -1,0 +1,26 @@
+{
+  "name": "nodejs-restapi_crud",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sdoshi983/NodeJS-RestAPI_CRUD.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sdoshi983/NodeJS-RestAPI_CRUD/issues"
+  },
+  "homepage": "https://github.com/sdoshi983/NodeJS-RestAPI_CRUD#readme",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "express": "^4.17.2",
+    "mongoose": "^6.1.10"
+  }
+}
