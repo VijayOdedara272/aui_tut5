@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sdoshi983/NodeJS-RestAPI_CRUD.git"
+    "url": "https://github.com/VijayOdedara272/aui_tut5.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sdoshi983/NodeJS-RestAPI_CRUD/issues"
+    "url": "https://github.com/VijayOdedara272/aui_tut5/issues"
   },
-  "homepage": "https://github.com/sdoshi983/NodeJS-RestAPI_CRUD#readme",
+  "homepage": "https://github.com/VijayOdedara272/aui_tut5#readme",
   "dependencies": {
     "body-parser": "^1.19.1",
     "express": "^4.17.2",
