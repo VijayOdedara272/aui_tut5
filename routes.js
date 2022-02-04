@@ -1,8 +1,8 @@
 const express = require('express');
 const router = express.Router();
 
-const MaterialMaster = require('./models/Mobilenode');
-const ChemicalMaster = require('./models/Laptopnode');
+const Mobilenode = require('./models/Mobilenode');
+const Laptopnode = require('./models/Laptopnode');
 const req = require('express/lib/request');
 
 // Mobile
