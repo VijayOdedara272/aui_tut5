@@ -1,8 +1,8 @@
 const mongoose = require('mongoose');
-const chemicalSchema = mongoose.Schema({
-    gradeName: String,
-    silicon: Number,
-    carbon: Number,
+const LaptopSchema = mongoose.Schema({
+    LaptopName: String,
+    ram: Number,
+    rom: Number,
 });
 
-module.exports = mongoose.model('Chemical', chemicalSchema);
+module.exports = mongoose.model('Laptop', LaptopSchema);

@@ -1,8 +1,8 @@
 const mongoose = require('mongoose');
-const materialSchema = mongoose.Schema({
-    modelName: String,
-    gradeName: String,
-    diameter: Number,
+const MobileSchema = mongoose.Schema({
+    MobileName: String,
+    ram: Number,
+    rom: Number,
 });
 
-module.exports = mongoose.model('Material', materialSchema);
+module.exports = mongoose.model('Mobile', MobileSchema);
